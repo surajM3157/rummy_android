@@ -1,0 +1,119 @@
+{
+	"BattleRecordView":{
+		"lan1":{
+			"Deal":"Deal","Start":"Start","Score":"Score","GameType":"GameType","GameVariant":"Game Variant","TableID":"Table ID","GameID":"Game ID","Decks":"Decks","TurnTime":"Turn Time","BonusTime":"Bonus Time",
+			"DropPoints":"Drop Points","PointsValue":"Points Value","DealCount":"Deal Count","Deals":"Deals","PointRummy":"Point Rummy","DealRummy":"Deal Rummy","PoolRummy":"Pool Rummy","13CardRummy":"13 Card Rummy",
+			"Infomation":"Infomation","GameInfomation":"Game Infomation","GameRule":"Game Rule","Sound":"Sound","Vibration":"Vibration","GroupTips":"Group Tips","LastGame":"Last Game","PureSequence":"Pure Sequence",
+			"ImpureSequence":"Impure Sequence","Sequence":"Sequence","Set":"Set","ValidSet":"Valid Set","Away":"Away","Drop":"Drop","Disconnect":"Disconnect","Balance":"Balance","Finish":"Finish","DisCard":"DisCard","Continue":"Continue","Group":"Group","Declare":"Declare",
+			"PleasegroupyourcardsandDeclare":"Please group your cards and Declare","Waiting":"Waiting","Gamestartingin":"Game starting in","OpenDeck":"OpenDeck","CloseDeck":"Close Deck","FinishDeck":"Finish Deck",
+			"GroupTip":"Group Tip","TrackYourBonus":"Track Your Bonus","Name":"Name","RefererDate":"Referer Date","Payment":"Payment","Bonus":"Bonus","InviteFriend":"Invite Friend","Youhavenotinvitedanyfriendsyet":"You haven't invited any friends yet",
+			"GameCustomer":"Game Customer","Text":"Text","Send":"Send","PractiseChips":"Practise Chips","Cash":"Cash","ContectUs":"Contect Us","ReloadChips":"Reload Chips","Lobby":"Lobby","Share":"Share","Menu":"Menu",
+			"AddCash":"Add Cash","Practise":"Practise","Tournament":"Tournament","SelectPlayers":"Select Players","Players":"Players","EntryFee":"Entry Fee","PLAYNOW":"PLAY NOW","SelectPoolGames":"Select Pool Games",
+			"Login":"Login","UserInfomation":"User Infomation","Account":"Account","Withdrawal":"Withdrawal","Transaction":"Transaction","RummySchool":"Rummy School","RummyRule":"Rummy Rule","Logout":"Logout","UserName":"UserName",
+			"Email":"Email","Mobile":"Mobile","Facebook":"Facebook","Google":"Google","Avartar":"Avartar","Modify":"Modify","Bind":"Bind","AvailableChips":"Available Chips","In Pays":"InPays","RealMoney":"Real Money",
+			"TotalBalance":"Total Balance","InPayAmount":"In Pay Amount","DepositBalance":"Deposit Balance","WithdrawableBalance":"Withdrawable Balance","PendingWithdrawals":"Pending Withdrawals","TransactionHistory":"Transaction History",
+			"TransactionId":"TransactionId","Amount":"Amount","Detail":"Detail","DateTime":"DateTime"," Thenextdealwillstart":"The next deal will start","Backtolobby":"Back to lobby","NextGame":"Next Game","Won":"Won","Lose":"Lose",
+			"Declaring":"Declaring","PointRummyRule":"Point Rummy Rule","PoolRummyRule":"Pool Rummy Rule","DealRummyRule":"Deal Rummy Rule","Notification":"Notification","Language":"Language","Step1:YouInvitefriend":"Step1:  You Invite friend",
+			"Click":"Click","ShareWhat'sapp":"Share What's app","ShareFacebook":"Share Facebook","CopyLink":"Copy Link","Step2:Friendplaysgame":"Step2:  Friend plays game","Friend":"Friend","Logingame":"Login game",
+			"whenFriendlosts":"when Friend losts","Step3:Youwillearnd":"Step3:  You will earnd","RefferAndEarn":"Reffer And Earn","Coming soon":"Coming soon"
+		},
+		"lan2":{
+			
+		}
+	},
+	"Rule1":[
+		{"title":"Point Rummy Rule","label":["A valid declaration is needed to win a Points Rummy game.","At least 2 sequences with 1 pure sequence are mandatory","Remaining groups can be sets or sequences.","If you drop on your first turn,you lose by 20 points,You lose by 40 points if you drop any time after your first turn"]},
+		{"title":"Pool Rummy Rule","label":["A valid declaration is needed to win a Pool Rummy game.","At least 2 sequences with 1 pure sequence are mandatory","Remaining groups can be sets or sequences.","Inner of every deal gets 0 points. The other players get points based on their cards.","Players reaching the max allowed points (101/201) get eliminated.","If you drop on your first turn.youlose by 20 points in 101 format and by 25 points in 201 format.You lose by 40 points in 101 format and by 50 points in 201 format if you drop any time after your first turn. For bad declare, you lose by 80 points in all the format.","When 3 or less than 3 players are left, they can use the Split Prize option."]},
+		{"title":"Deal Rummy Rule","label":["A valid declaration is needed to win every deal in this game.","At least 2 sequences with 1 pure sequence are mandatory","Remaining groups can be sets or sequences.","Winning player will get points from losing players at the end of every deal.","The player with the maximum points at the end of the final deal is the winner."]}
+	],
+	"Guild1":["Let me show you how to play Rummy.","Rummy card game is played between 2 to 6 players.","Each Player gets 13cards in 13-Card Rummy.","Sort your cards to arrange them by suits.","Great! You have a Pure Sequence in your hand.","To win the game.your total points need to be '0'.","The first turn is yours.Pick a card from the open deck.","Great! Now pick a card to discard from your hand.","Select the cards to group and make an Impure Sequence using Printed Joker.","Great! You just made an Impure Sequence.","It's your opponent's turn now.","Now select cards to group and make a Set.","Great! You have made a valid Set","It's your turn now.Pick a card from the closed deck.","Great! You have a Wild Joker.","Select the cards to group and make an Impure Sequence using Wild Joker.","Great! You just made an  Impure Sequence.","You are now ready to Declare.","Select the unused card and discard it to finish the game.","Click 'Declare' to declare the game.","Hurray! You win the game."
+	],
+
+	"RummyRule":[
+		{"title":"How to Play Rummy: A Detailed Guide to Rummy Rules",
+			"content":[
+				"The game of rummy is played by two to six players using one or two standard decks of cards plus jokers. Each player is dealt 13 cards, which they need to arrange in sequences, or sequences and sets.",
+				"On each turn, a player has to draw a card from the open deck or the closed deck, kept in the center of the table, and then discard a card to the open deck. The player who makes a valid declaration first, following all rummy game rules, wins the game.",
+				"The cards in each suit from lowest to highest are ranked as follows: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K and A. (A (ace) can also be the lowest card and be used to form a sequence like A-2-3.)The face cards K, Q and J, as well as A (ace), are worth 10 points each, whereas the number cards are worth their face value.",
+				"In a rummy card game online, points have a negative value. The winner gets zero points and a losing player can get a maximum of 80 penalty points in a points rummy game."
+			]
+		},
+		{"title":"Objective of the Rummy Card Game",
+			"content":[
+				"1.The objective of the game of rummy is to arrange all the 13 cards in your hand in required combinations (either all sequences, or sequences and sets) and make a valid declaration before your opponents.",
+				"To play rummy like a pro, you have to create sequences or sequences and sets to make a valid declaration. Here are some valid declarations that you can make:",
+				"1.2 sequences + 2 sets.",
+				"2.3 sequences + 1 set",
+				"3.All cards arranged in sequences.",
+				"According to rummy rules, you must create at least two sequences for a valid hand or valid declaration. And out of the two sequences, at least one must be a pure sequence.",
+				"If you declare without a pure sequence in your hand, you will not only lose but lose by a big margin, as the points of all the cards in your hand will be added up to calculate your penalty points"
+			]
+		},
+		{"title":"What Are Rummy Rules?",
+			"content":[
+				"Rummy game rules are simple and easy to learn. Let’s take a look at them and learn how to play rummy:",
+				"1.Indian rummy is played by two to six players using one or two standard decks of 52 cards in each plus jokers. At the beginning of a game, every player is dealt 13 cards.",
+				"2.The remaining cards form a closed deck, which is kept in the center of the table. The cards in the closed deck are not revealed to the players but kept face down. The top card from the closed deck is picked up and placed face up on the table. That forms the open deck to which players have to discard cards.",
+				"3.A random card is selected as the wild joker. All the remaining cards of the same rank/value in other suits also become wild jokers for the game.",
+				"4.On each turn, you need to pick a card from the closed deck or the open deck and discard a card to the open deck.",
+				"5.When you play a rummy game, to win, you have to arrange all the cards in your hand in sequences, or sequences and sets. There should be at least two sequences, out of which at least one must be a pure sequence, for a valid declaration. The player who makes a valid declaration first wins the game."
+			]
+		},
+		{"title":"Sequence,Pure Sequence,Impure Sequece,Set",
+			"content":[
+				"A sequence is a group of three or more consecutive cards of the same suit. There are two types of sequences: pure sequence and impure sequence.",
+				"A pure sequence is a group of three or more consecutive cards of the same suit. No card is replaced by a joker in a pure sequence. As per rummy game rules, it is mandatory to make at least one pure sequence for a valid declaration.",
+				"An impure sequence is a sequence (3 or more cards arranged in a sequence) in which one or more cards have been replaced by a joker or jokers.",
+				"Three or four cards of the same rank but different suits form a set. A set cannot have more than one card from any suit. Rummy rules allow you to use one or more jokers to replace any other card(s) in a set."
+			]
+		},
+		{"title":"Importance of Jokers in Rummy",
+			"content":[
+				"One of the most important rummy rules that are taught when you play rummy is how to use jokers. Jokers play a very special role in rummy and can help you win the game. There are two types of jokers used in a game of rummy: printed jokers and wild jokers.",
+				"Printed Joker",
+				"As the name suggests, a printed joker has the picture of a joker printed on it. This card can be used as a substitute for any missing card and can help you form a set or an impure sequence.",
+				"Wild Joker",
+				"The wild joker is randomly picked at the beginning of the game. When the card is picked, this card along with other cards of the same rank and different suits become the wild joker of the game."
+			]
+		},
+		{"title":"Rummy Rules for Making a Valid Declaration",
+			"content":[
+				"Valid Declaration",
+				"To make a valid declaration, you have to arrange all 13 cards in your hand in sequences, or in sequences and sets. This should be done following all rummy game rules.",
+				"After arranging your cards, you have to finish the game by discarding the last unwanted card into the “Finish” slot and declare your hand. The player who makes a valid declaration first wins the game and gets zero points.",
+				"For a valid declaration, you need to fulfill the following three conditions:",
+				"Pure sequence: Making at least one pure sequence is mandatory to win a rummy game. A pure sequence consists of three or more consecutive cards of the same suit.",
+				"Please note that a printed joker cannot be used as a substitute for any card in a pure sequence. However, a wild joker can be used to create a pure sequence as long as it is a part of the suit. Any declaration made without a pure sequence is invalid and the player loses by a margin equal to the total of the values of all the cards in his/her hand.",
+				"Second sequence: Rummy rules make it mandatory to make at least two sequences to make a valid declaration in the game. So in addition to a pure sequence, you need to form a second sequence. It can be either a pure sequence or an impure one, depending on the cards you have.",
+				"As explained above, an impure sequence includes a joker acting as a substitute for any other card in an impure sequence. You can create more than two sequences too.",
+				"All your cards should be arranged: All the remaining cards that are not a part of the two sequences should be arranged in either sequences or sets. Forming a set is optional but all the cards must be a part of a valid combination.",
+				"Invalid Declaration",
+				"When you declare your cards without fulfilling any of the three conditions above, it becomes an invalid declaration. If you make an invalid declaration, you will lose the game instantly and your opponent will be declared the winner if it’s a 2-player table.",
+				""
+			]
+		},
+		{"title":"How Are Points Calculated in a Rummy Game?",
+			"content":[
+				"Point Calculation for Losing Players",
+				"1.When you play rummy online or offline, losing players get penalty points. Here’s how penalty points are calculated:",
+				"2.Wrong declaration: For an invalid declaration (a declaration made before the winner) in a rummy game, the maximum penalty points are 80, irrespective of the cards in the player’s hand. So double-check your hand before making a declaration.",
+				"3.First drop: If you quit the game before or during your very first move without picking a card, it is called a first drop. The penalty points for a first drop are 20 in a points rummy game.",
+				"4.Middle drop: If you drop out of a points rummy game any time after your first turn, you will get 40 points as a penalty. Consecutive misses: If you miss three consecutive turns, you will be automatically dropped out of the game. It will be considered a middle drop and you will get a penalty of 40 points.",
+				"5.Losing player with a valid hand: A player who declares his/her hand second and has a valid hand gets 2 penalty points. So if you make a valid declaration first and your opponent also has a valid hand, your opponent will lose by two points.",
+				"Leaving the table: You will get a middle drop of 40 points if you leave the table after picking a card.",
+				"Point Calculation in Cash Games",
+				"By now you might have understood how to play rummy well. However, do you know how winnings are calculated in cash rummy games? Jaldi Rummy uses the following simple formulas to calculate the winning amount:",
+				"1. Points Rummy",
+				"In a cash game of points rummy, each point has a pre-decided value in rupees. The winner gets the amount lost by all the losing players at the table after the deduction of a very small Jaldi Rummy fee.",
+				"The formula used to calculate the winnings in a points rummy game is as follows:",
+				"Winnings = Sum of the points of all the losing players x Value of each point in rupees – Rummy fee.",
+				"2. Pool Rummy",
+				"The following formula is used to calculate winnings in a pool rummy game:",
+				"Winnings = (Entry fee x Number of players) – Jaldi Rummy fee.",
+				"3. Deal Rummy",
+				"In a game of deals rummy, the winner gets chips equal to the points lost by the losing players. The formula used to calculate winnings in deals rummy is as follows:",
+				"Winnings = (Entry fee × Number of players) – Jaldi Rummy Fee."
+			]
+		}
+	]
+}

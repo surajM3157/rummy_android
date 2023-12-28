@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808130737000",
+	"firebase_url": "https://jaldi-rummy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jaldi-rummy",
+    "storage_bucket": "jaldi-rummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808130737000:android:7f52249b419aaccfa05cdd",
+        "android_client_info": {
+          "package_name": "com.manbai.jaldirummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808130737000-7f24l8rd8cnusrei0p9rp5cab7tv80ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manbai.jaldirummy",
+            "certificate_hash": "57e1cb223c084a19f10d8fa6cecf4df3167c7ad2"
+          }
+        },
+        {
+          "client_id": "808130737000-76qbjr59as4ut6vhuq0qdh1ch9seihj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-8rmc7U7j29l29IjQ8tAkrSOT3cmcQVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808130737000-76qbjr59as4ut6vhuq0qdh1ch9seihj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "gameName":"Rummy",
+    "httpURL1":"https://game.jaldirummy.com/api/",
+    "httpURL2":"http://192.168.1.6:8200/api/",
+    "httpURL3":"http://192.168.2.117:8200/api/",
+    "debug":true,
+    "version":"1.0.84",
+    "channel":0,
+    "serverID":1
+}
